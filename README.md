@@ -2,6 +2,14 @@
 <h2>FLUTTER FIRESTORE FAST CALENDAR</h2>
 Simple Calendar and Contacts app that store data on firestore.
 <br>
+
+<h3>FEATURES</h3>
+<ul>
+ <li>Login/Register (Username,Password) to Firebase App</li>
+<li>Create and manage Contacts</li>
+<li>Create and manage Calendar Events</li>
+</ul>
+
 <h3>FIRESTORE STRUCTURE</h3>
 <h4>--> Remember to insert your <b>"google-services.json"</b>, without the app not work <--</h4>
 
