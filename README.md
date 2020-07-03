@@ -10,5 +10,6 @@ Simple Calendar and Contacts app that store data on firestore.
 <a href="https://ibb.co/L9RHqb6"><img src="https://i.ibb.co/L9RHqb6/contatti.png" alt="contatti" border="0">
  
   <h6>Notifications ()</h6>
-  <span>This table store Firebase Messaging Token</span>
+  <span>This table saves the  <b>Firebase Messaging Token</b></span>
+  <br>
 </a> <a href="https://ibb.co/t4hGZ64"><img src="https://i.ibb.co/t4hGZ64/notifiche.png" alt="notifiche" border="0"></a>
