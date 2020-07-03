@@ -1,6 +1,7 @@
 
 <h2>FLUTTER FIRESTORE FAST CALENDAR</h2>
 Simple Calendar and Contacts app that store data on firestore.
+ Designed as a basis for developing a more complex app.
 <br>
 
 <h3>FEATURES</h3>
