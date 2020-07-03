@@ -1,9 +1,9 @@
 
-<h1>! The code will be uploaded soon,stay tuned !</h1><br>
 <h2>FLUTTER FIRESTORE FAST CALENDAR</h2>
 Simple Calendar and Contacts app that store data on firestore.
 <br>
-<h4>FIRESTORE STRUCTURE</h4>
+<h3>FIRESTORE STRUCTURE</h3>
+<h4>--> Remember to insert your <b>"google-services.json"</b>, without the app not work <--</h4>
 
 | Table| Image| Description|
 | ---    | ---       | ---       |
